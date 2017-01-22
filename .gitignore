@@ -1,2 +1,6 @@
-ADS/bin
 packages
+obj/
+[Rr]elease/
+[Bb]in
+[Dd]ebug*/
+*.suo
